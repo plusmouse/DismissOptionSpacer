@@ -4,4 +4,4 @@
 ## Author: plusmouse
 ## Notes: Separate dismiss option from other chat options
 
-DismissChatSpacer.lua
+DismissOptionSpacer.lua
