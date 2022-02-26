@@ -1,0 +1,7 @@
+## Interface: 90105
+## Title: Dismiss Chat Option Spacer
+## Version: 1
+## Author: plusmouse
+## Notes: Separate dismiss option from other chat options
+
+DismissChatSpacer.lua
