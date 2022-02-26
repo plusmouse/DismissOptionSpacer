@@ -17,9 +17,8 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - uses: BigWigsMods/packager@v2
-      #with:
-      #  args: -S -p 453921 -a qv63EkGb
+      with:
+        args: -p 583370
       env:
         GITHUB_OAUTH: ${{ secrets.GITHUB_TOKEN }}
-        #CF_API_KEY: ${{ secrets.plusmouse_curseforge }}
-        #WAGO_API_TOKEN: ${{ secrets.plusmouse_wago }}
+        CF_API_KEY: ${{ secrets.plusmouse_curseforge }}
